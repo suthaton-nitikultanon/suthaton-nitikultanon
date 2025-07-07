@@ -1,16 +1,19 @@
-## Hi there 👋
+ 👋 Hi there, I'm Suthaton Nitikultanon!
 
-<!--
-**suthaton-nitikultanon/suthaton-nitikultanon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Product Operations & Client Onboarding specialist with 7+ years in fintech, payments, and logistics.
 
-Here are some ideas to get you started:
+💡 I love solving complex problems and improving processes to make technology seamless for customers and businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Skills:
+- Technical Support & Troubleshooting
+- Process Improvement & SOP Development
+- Cross-functional Collaboration
+- Data Analysis (Excel, Data Studio, SQL)
+- Product Operations & Client Engagement
+
+📫 How to reach me:
+- Email: suthaton@gmail.com
+- LinkedIn: https://www.linkedin.com/in/suthaton-nitikultanon/
+
+🌐 Fun fact:
+I believe seamless digital payments connect the world!
