@@ -18,4 +18,13 @@
 ## 📄 SOP Documents
 
 - [Incident Management SOP](./incident-management-sop.md)
+## 📊 Dashboard Example
+
+This dashboard helps monitor key payment operations metrics:
+
+- Daily payment success rate
+- Failed transactions trends
+- Average processing times for SLA monitoring
+
+[Download Excel Dashboard](./Dashboard.xlsx)
 
