@@ -2,7 +2,7 @@
 
 💳 **Product Operations & Payments Specialist**  
 📍 Bangkok, Thailand  
-📧 suthaton@gmail.com | 📞 092-246-5588 | [LinkedIn](#)
+📧 suthaton@gmail.com | 📞 092-246-5588 | [LinkedIn](https://www.linkedin.com/in/suthaton-nitikultanon/)
 
 ---
 
