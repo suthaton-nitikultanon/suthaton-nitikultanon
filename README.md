@@ -47,7 +47,7 @@ I created this Excel dashboard to monitor payment operations KPIs and SLA perfor
 - Failed transactions trends
 - Average processing times for SLA monitoring
 
-![Dashboard](./dashboard-example.png)
+![Dashboard Preview](./dashboard-example.png)
 
 [Download Excel Dashboard](./Dashboard.xlsx)
 
