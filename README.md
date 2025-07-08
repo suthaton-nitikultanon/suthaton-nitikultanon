@@ -53,6 +53,14 @@ I created this Excel dashboard to monitor payment operations KPIs and SLA perfor
 
 ---
 
+## Showcase
+
+- [Incident Report Sample](./showcase/incident_report_sample.md)
+- [SQL Query Samples](./showcase/sample_sql_queries.sql)
+- [Knowledge Base Article](./showcase/knowledge_base_sample.md)
+- [Mock Jira Ticket](./showcase/mock_jira_ticket.md)
+- [UAT Test Cases](./showcase/uat_test_cases.md)
+
 ## 🎯 About This Profile
 
 This GitHub profile showcases my skills and experience relevant for roles in payment operations, product operations, and technical support in fintech and digital payments industries. Feel free to explore my repositories and documents.
