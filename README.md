@@ -1,6 +1,6 @@
 # Suthaton Nitikultanon
 
-💳 **Product Operations & Payments Specialist**  
+💳 **Head of Operations**  
 📍 Bangkok, Thailand  
 📧 suthaton@gmail.com | 📞 092-246-5588 | [LinkedIn](https://www.linkedin.com/in/suthaton-nitikultanon/)
 
@@ -54,7 +54,7 @@ Currently, I’m exploring opportunities to bring my skills in product operation
 ---
 
 ### Ninja Logistics (Thailand) Limited
-**Assistant Manager, Client Operations Support** | Aug 2021 – Oct 2022
+**Assistant Manager, Client Operations Support** | Aug 2020 – Oct 2022
 
 - Managed and supported top-tier portfolio clients such as IKEA, H&M, Madam Fin and JKN Hi Shopping, ensuring high service standards and tailored logistics solutions to meet their unique business needs.
 - Developed customized logistics solutions to improve on-time pickups, reduce RTS rates, and boost OTIF performance.
