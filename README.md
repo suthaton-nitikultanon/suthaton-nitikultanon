@@ -27,18 +27,6 @@
 
 ---
 
-## 📊 Dashboard Example
-
-I created an Excel dashboard to monitor payment operations KPIs and SLA performance.
-
-- Daily payment success rate
-- Failed transactions trends
-- Average processing times for SLA monitoring
-
-[Download Excel Dashboard](./Dashboard.xlsx)
-
----
-
 ## 🗄️ SQL Sample Queries
 
 Explore example SQL queries useful for payment operations, including:
@@ -51,9 +39,22 @@ Explore example SQL queries useful for payment operations, including:
 
 ---
 
+## 📊 Dashboard Example
+
+I created this Excel dashboard to monitor payment operations KPIs and SLA performance.
+
+- Daily payment success rate
+- Failed transactions trends
+- Average processing times for SLA monitoring
+
+![Dashboard](./dashboard-example.png)
+
+[Download Excel Dashboard](./Dashboard.xlsx)
+
+---
+
 ## 🎯 About This Profile
 
 This GitHub profile showcases my skills and experience relevant for roles in payment operations, product operations, and technical support in fintech and digital payments industries. Feel free to explore my repositories and documents.
 
 ---
-
