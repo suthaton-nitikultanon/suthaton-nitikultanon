@@ -1,55 +1,68 @@
-# 👋 Hi, I'm Suthaton Nitikultanon
+# Suthaton Nitikultanon
 
-🚀 **Product Operations and Payment Operations Specialist**
-
-- 7+ years in fintech, payment solutions, and logistics
-- Strong in process improvement, troubleshooting, and cross-team collaboration
-- Experienced with payment flows, incident management, SLA monitoring
-
-🛠 **Skills:**
-
-- Technical Support & Troubleshooting
-- Process Improvement & SOP Writing
-- SQL Queries and Data Analysis
-- Jira, HelpScout
-- Product Operations and Client Engagement
-
-📬 **Reach me:**
-
-- Email: [suthaton@gmail.com](mailto:suthaton@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/suthaton-nitikultanon/](https://www.linkedin.com/in/suthaton-nitikultanon/)
+💳 **Product Operations & Payments Specialist**  
+📍 Bangkok, Thailand  
+📧 suthaton@gmail.com | 📞 092-246-5588 | [LinkedIn](#)
 
 ---
 
-## 📄 SOP Documents
+## About Me
 
-- [Incident Management SOP](./incident-management-sop.md)
+Hi there! I’m Suthaton, a fintech and product operations professional with over 7 years of experience working across payment solutions, technical support, and operational excellence. I’m passionate about troubleshooting technical issues, improving product processes, and collaborating cross-functionally to deliver seamless digital payment experiences.  
 
----
-
-## 🗄️ SQL Sample Queries
-
-Explore example SQL queries useful for payment operations, including:
-
-- Monitoring failed transactions
-- SLA compliance analysis
-- Error trends analysis
-
-[View SQL Sample Queries](./sql-sample-queries.md)
+Currently, I’m exploring opportunities to bring my skills in product operations, incident management, and data analysis to innovative teams in the fintech space.
 
 ---
 
-## 📊 Dashboard Example
+## Key Skills
 
-I created this Excel dashboard to monitor payment operations KPIs and SLA performance.
+- Technical Issue Troubleshooting & Root Cause Analysis
+- Product Operations & Process Optimization
+- SLA Monitoring and Incident Management
+- Tools: Jira, HelpScout, SQL, Excel
+- System Configuration & Operational Controls
+- Cross-Functional Collaboration (Product, Engineering, Support)
+- Documentation & Knowledge Base Maintenance
+- Fluent in Thai and English
 
-- Daily payment success rate
-- Failed transactions trends
-- Average processing times for SLA monitoring
+---
 
-![Dashboard Preview](./dashboard-example.png)
+## Professional Experience
 
-[Download Excel Dashboard](./Dashboard.xlsx)
+### Qashier Thailand
+**Head of Operations** | Feb 2023 – Present
+
+- Led technical troubleshooting and root-cause investigations for payment system issues, collaborating with tech and product teams to implement sustainable solutions.
+- Analyzed transaction data and incident reports to identify recurring issues and propose preventive actions.
+- Supported system configuration changes, including routing rules and credentials, ensuring accurate deployment.
+- Monitored SLA adherence, addressing deviations to maintain operational excellence.
+- Provided technical support and training to local Customer Support teams to ensure effective issue resolution.
+- Managed incident response processes, documenting root causes and corrective actions.
+
+---
+
+### Best Express Thailand
+**Project Supervisor** | Nov 2022 – Jan 2023
+
+- Managed operational troubleshooting and resolution for e-commerce clients.
+- Implemented process improvements based on root cause analysis of service delays.
+
+---
+
+### Ninja Logistics (Thailand) Limited
+**Assistant Manager, Client Operations Support** | Aug 2021 – Oct 2022
+
+- Supervised technical support teams handling seller issues and escalations.
+- Worked with product and engineering teams to resolve operational system issues.
+- Built dashboards and reports to track operational KPIs and incident trends.
+- Maintained internal knowledge base to improve resolution efficiency.
+
+---
+
+## Education
+
+- MBA, Assumption University (Expected 2026)
+- BBA in Marketing, Assumption University
 
 ---
 
@@ -61,8 +74,6 @@ I created this Excel dashboard to monitor payment operations KPIs and SLA perfor
 - [Mock Jira Ticket](./showcase/mock_jira_ticket.md)
 - [UAT Test Cases](./showcase/uat_test_cases.md)
 
-## 🎯 About This Profile
-
-This GitHub profile showcases my skills and experience relevant for roles in payment operations, product operations, and technical support in fintech and digital payments industries. Feel free to explore my repositories and documents.
-
 ---
+
+*Currently open to opportunities in Technical Product Operations, Payments, and Fintech.*
