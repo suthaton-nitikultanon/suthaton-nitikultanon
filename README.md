@@ -32,12 +32,12 @@ Currently, I’m exploring opportunities to bring my skills in product operation
 ### Qashier Thailand
 **Head of Operations** | Feb 2023 – Present
 
-- Led technical troubleshooting and root-cause investigations for payment system issues, collaborating with tech and product teams to implement sustainable solutions.
-- Analyzed transaction data and incident reports to identify recurring issues and propose preventive actions.
-- Supported system configuration changes, including routing rules and credentials, ensuring accurate deployment.
-- Monitored SLA adherence, addressing deviations to maintain operational excellence.
-- Provided technical support and training to local Customer Support teams to ensure effective issue resolution.
-- Managed incident response processes, documenting root causes and corrective actions.
+- Collaborated with cross-functional teams to launch innovative payment solutions, including POS systems supporting PromptPay, e-wallets, payment links, and Soundbox devices, helping expand merchant capabilities and improve transaction security.
+- Oversaw transaction monitoring and troubleshooting processes, collaborating closely with tech and product teams.
+- Analyzed operational data and user feedback to identify process gaps, proposing improvements for better customer experience.
+- Developed SOPs, knowledge base materials, and escalation workflows to support efficient operations and compliance requirements.
+- Executed process improvements and automation in KYC operations, enhancing operational efficiency.
+- Monitored KPIs, NPS, and campaign performance to align with platform and product goals.
 
 ---
 
