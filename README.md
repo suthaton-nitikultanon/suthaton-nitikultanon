@@ -44,18 +44,23 @@ Currently, I’m exploring opportunities to bring my skills in product operation
 ### Best Express Thailand
 **Project Supervisor** | Nov 2022 – Jan 2023
 
-- Managed operational troubleshooting and resolution for e-commerce clients.
-- Implemented process improvements based on root cause analysis of service delays.
+- Led service operations for Shopee and Lazada clients, ensuring delivery KPIs such as speed, accuracy, and customer satisfaction, met or exceeded targets.
+- Maintained strong relationships with existing clients to ensure high satisfaction and drive increased wallet share within defined timelines.
+- Conducted impactful product presentations and demonstrations to prospective clients, showcasing in-depth knowledge of company solutions to address diverse business needs.
+- Negotiated contracts and quotation terms with clients, securing agreements that balanced client requirements with company objectives for mutual benefit.
+- Acted as the primary liaison between clients and internal teams, resolving client issues swiftly and ensuring seamless service delivery and communication.
+- Collaborated cross-functionally with Solutions, Transport, and Project Management teams to align sales strategies, share client feedback, and drive continuous product and service improvement.
 
 ---
 
 ### Ninja Logistics (Thailand) Limited
 **Assistant Manager, Client Operations Support** | Aug 2021 – Oct 2022
 
-- Supervised technical support teams handling seller issues and escalations.
-- Worked with product and engineering teams to resolve operational system issues.
-- Built dashboards and reports to track operational KPIs and incident trends.
-- Maintained internal knowledge base to improve resolution efficiency.
+- Managed and supported top-tier portfolio clients such as IKEA, H&M, Madam Fin and JKN Hi Shopping, ensuring high service standards and tailored logistics solutions to meet their unique business needs.
+- Developed customized logistics solutions to improve on-time pickups, reduce RTS rates, and boost OTIF performance.
+- Presented logistics capabilities and proposed service enhancements to clients, emphasizing SLA achievements and lead time efficiency.
+- Collaborated across teams to address first-mile and last-mile challenges, ensuring smooth and timely service delivery.
+- Awarded a Certificate of Recognition for achieving the milestone of processing 1 million parcels within a single month, exceeding operational targets.
 
 ---
 
